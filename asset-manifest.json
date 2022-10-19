@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo-expense-app/static/css/main.d92e31bb.chunk.css",
-    "main.js": "/demo-expense-app/static/js/main.3933bcd1.chunk.js",
-    "main.js.map": "/demo-expense-app/static/js/main.3933bcd1.chunk.js.map",
+    "main.js": "/demo-expense-app/static/js/main.022474a2.chunk.js",
+    "main.js.map": "/demo-expense-app/static/js/main.022474a2.chunk.js.map",
     "runtime-main.js": "/demo-expense-app/static/js/runtime-main.0c279b7d.js",
     "runtime-main.js.map": "/demo-expense-app/static/js/runtime-main.0c279b7d.js.map",
     "static/css/2.958cd64e.chunk.css": "/demo-expense-app/static/css/2.958cd64e.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.958cd64e.chunk.css",
     "static/js/2.d3d684cd.chunk.js",
     "static/css/main.d92e31bb.chunk.css",
-    "static/js/main.3933bcd1.chunk.js"
+    "static/js/main.022474a2.chunk.js"
   ]
 }
